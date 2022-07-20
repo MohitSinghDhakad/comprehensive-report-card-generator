@@ -1,0 +1,72 @@
+PROJECT FILES: 
+
+1.  student marks.txt  => This file contains name of students and their marks in each subject. 
+			  First column contains name of the students and rest of the columns contain marks in each subjects.
+			  First word of each line is name of the student and after that it contains marks in each suject, all of them separated by a space.
+			  
+2. tensorflow.py  => This file contains the code of our programm in python with comments about code.
+
+
+
+
+
+
+
+SAMPLE INPUTS:
+
+1.)Student marks.txt file can contain any number of students and any number of subjects in the given format.
+	     
+	     sample input 1:  ram 50 10
+		              ravi 25 30 
+	     
+	     sample input 2:  ram 50 71 45 89 63
+		  	      albert 45 87 96 100 25
+	     	 	      joseph 63 25 89 100 100
+		  	      arpit 58 58 96 71 88
+			      shyam 98 98 25 93 68 
+
+
+2.)Teacher has to enter the subjects in order of 'student marks.txt' file.
+             
+	     sample input 1: science computer
+	     sample input 2: physics chemistry math hindi english
+
+
+3.)Teacher has to input the marks out of which the above marks were given.
+	   
+	     sample input 1: 50
+             sample input 2: 100	
+
+
+
+
+
+		
+OUTPUTS: 
+
+1.Provides you with your marks in each subject.
+2.Provides you with your grade in each subject.
+3.Provides you with your rank in each subject.
+
+4.Provides you your total marks.  
+5.Provides you your total percentage.
+6.Provides you your total rank.
+7.Provides you your total cgpa.
+
+8.For analysis with your classmates it provides you with class average marks in each subject.
+9.For analysis with your classmates it also provides you with the highest marks in each subject.
+
+10.For your better analysis, it shows you your marks in each subject using bar graph.
+11.For your better analysis, it also shows you your marks in each subject using pie chart.
+12.For better understanding of these data, this whole data is provided to you in a tabular form.
+
+
+
+
+
+
+'''
+TEAM NAME : TENSORFLOW
+TEAM MEMBERS : MOHIT SINGH,SHIVAM SINOLIYA,NISHANT KUMAR.
+
+'''
