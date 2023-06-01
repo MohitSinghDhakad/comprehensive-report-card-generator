@@ -8,8 +8,8 @@ from prettytable import PrettyTable
 
 
 #TAKING INITIAL INPUTS FROM TEACHER
-subjects = input("Enter the name of the subjects in order of the file separated by a space ").split()
-max_marks = int(input('Please enter the maximum marks of each subject(out of which marks were given):'))
+subjects = input("Enter the name of the subjects in order of the file separated by a space: ").split()
+max_marks = int(input('Please enter the maximum marks of each subject(out of which marks were given): '))
 no_of_subjects = len(subjects)
 
 with open("student marks.txt","r",encoding = "ascii") as file:
@@ -64,7 +64,7 @@ student_marks.close()
 
 
 #PROGRAMM STARTS AND STUDENT ENTERS HIS/HER NAME
-name = input('enter the name of the student ')
+name = input('Enter the name of the student: ')
 
 
 
