@@ -7,7 +7,7 @@
 - All the data was shown in an organized way using a prettytable library of Python.
 
 
-# Prerequsite
+# Prerequisite
 Following libraries are required to be imported:
 - matplotlib library of Python
 - PrettyTable library of Python
