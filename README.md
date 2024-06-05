@@ -1,4 +1,4 @@
-# detailedReportCardGenerator
+# comprehensiveReportCardGenerator
 - Generate detailed Report Card for students. 
 - Designed to show Total marks, Total percentage, Total rank and Total CGPA.
 - Also shows marks, grades and ranks individually in each of the subjects.
